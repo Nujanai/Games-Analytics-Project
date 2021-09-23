@@ -2,8 +2,8 @@
 Hello and thank you for visiting my Git Hub repository. The objective of this repository is to showcase my data analysis skills. I will be updating the project as I meet milestones. 
 Key milestones:
 -	Identify dataset
--	Review, clean and prepare dataset for analysis
--	Clean data in R. This includes: record imputation, record deletion and datatype validation.
+-	Review and understand the content of the dataset
+-	Clean & prepare dataset in R. This includes: record imputation, record deletion and datatype validation.
 -	Run univariate and bivariate analysis of variables within the dataset
 -	Build predictive model in R
 -	Build sales analysis dashboard in Tableau.
