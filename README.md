@@ -1,5 +1,5 @@
 # Games-Analytics-Project
-Hello and thank you for visiting my GitHub repository. The objective of this repository is to showcase my data analysis skills. I will be updating the project as I meet milestones. 
+Hello and thank you for visiting. The objective of this repository is to showcase my data analysis skills. I will be updating the project as I meet milestones. 
 Key milestones:
 -	Identify dataset
 -	Review and understand the content of the dataset
